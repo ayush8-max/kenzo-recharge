@@ -1,0 +1,28 @@
+body {
+  background: #050b1e;
+  color: white;
+  font-family: sans-serif;
+  padding: 20px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  background: #0a1a3a;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+input, select, button {
+  width: 100%;
+  padding: 12px;
+  margin-top: 10px;
+  border-radius: 8px;
+  border: none;
+}
+
+button {
+  background: #1e90ff;
+  color: white;
+  font-weight: bold;
+}
